@@ -192,6 +192,7 @@ Optimizing for quality of user experience is key to the long-term success of any
 - 🖥 [fastlane](https://fastlane.tools/)
 - 🖥 [appcenter](https://appcenter.ms/)
 - 🖥 [firebase](https://firebase.google.com/products/app-distribution/)
+- 🖥 [agent-qa](https://vostride.com) — Natural-language web and mobile testing with persistent memidex memory and validated self-improvement.
 
 ## React Native & Expo
 
